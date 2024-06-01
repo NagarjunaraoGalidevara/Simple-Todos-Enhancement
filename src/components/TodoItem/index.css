@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  list-style-type: none;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.paragraph {
+  color: #000000;
+  font-size: 15px;
+  font-weight: 800;
+  font-family: 'Roboto';
+  margin: 0px;
+  padding: 0px;
+}
+.button {
+  height: 32px;
+  width: 80px;
+  color: #ff0b37;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #ff0b37;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-left: 16px;
+  cursor: pointer;
+  outline: none;
+  margin-right: 25px;
+}
